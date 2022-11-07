@@ -88,6 +88,58 @@ React, Spring Boot, JPA, MySQL, AWS
   * 학습페이지 정답 체크 API
 * AWS를 통한 서비스 배포
 
+<br>
+
+### 4. 요소수 요기서  
+> Open API를 활용한 요소수 판매 주유소 정보제공 서비스  
+
+[깃허브 바로가기(서버)](https://github.com/eleeje97/yososu-server)  
+
+<img width="500" alt="요소수요기서 서비스 화면" src="https://user-images.githubusercontent.com/45222668/200380670-557e348c-2205-4fd7-9f32-83d9ef7d0d0e.png">
+
+**기간**  
+2021.11 - 2021.12
+
+**기술 스택**  
+React, Spring Boot, AWS  
+
+**주요 기능**  
+* 환경부에서 제공하는 요소수 재고현황 데이터 조회
+* 지역별 조회
+* 가격순, 재고량순 정렬
+
+**담당 업무**
+* API 설계 및 Spring Boot를 이용한 백엔드 API 개발
+* 실시간으로 Open API를 호출하여 정보 제공하는 기능 개발
+* 지역별 요소수 정보 조회 기능, 가격순/재고량순 정렬 기능 개발
+* AWS를 통한 서비스 배포
+
+<br>
+
+### 5. 우급이 (우리집 구급상자)  
+> 약품/복용관리 안드로이드 앱
+
+[깃허브 바로가기(안드로이드)](https://github.com/eleeje97/UGEUBI-android)  
+
+<img width="500" alt="우급이 서비스 화면" src="https://user-images.githubusercontent.com/45222668/200382514-133e6278-ae2b-4f06-85a3-b5be55d8cf45.png">
+
+**기간**  
+2020.05 - 2020.07  
+
+**기술 스택**  
+Android, Spring Boot, AWS  
+
+**주요 기능**  
+* 약품 유통기한 관리
+* 복용시간 알림
+* 약품정보 검색
+
+**담당 업무**
+* Android 앱 개발
+* 약품관리 탭 화면 레이아웃 구현
+* 계정 관련 API 연결하여 자동 로그인 기능 구현
+* 약품 검색 API 연결하여 검색 기능 구현
+* FCM을 이용한 약 복용시간 푸시 알림 기능 개발
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eleeje97&show_icons=true&count_private=true&disable_animations=true&include_all_commits=true&theme=vue) -->
