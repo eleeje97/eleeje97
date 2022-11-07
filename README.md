@@ -1,3 +1,4 @@
+
 ## 프로젝트 소개
 ### 1. See 옷
 > 인공지능 기반의 온라인 가상피팅 서비스  
@@ -66,7 +67,7 @@ Html, CSS, Javascript, Django, MySQL, AWS
 
 [깃허브 바로가기(서버)](https://github.com/eleeje97/ComeSeeStudy-server)  
 
-<img width="500" alt="css 서비스 화면" src="https://user-images.githubusercontent.com/45222668/200371252-19833b5e-8d19-49b3-9096-d6e1f740ddae.png">
+<img width="500" alt="css 서비스 화면" src="https://user-images.githubusercontent.com/45222668/200377909-5c993f91-7fc6-45b7-a886-240d40c941e4.gif">
 
 **기간**  
 2021.12 - 2022.02
