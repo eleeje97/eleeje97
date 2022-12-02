@@ -66,7 +66,7 @@ Html, CSS, Javascript, Django, MySQL, AWS
 > 입문자를 위한 CSS 학습 서비스  
 
 [깃허브 바로가기(서버)](https://github.com/eleeje97/ComeSeeStudy-server)  
-[서비스 바로가기](http://come-see-study.site/)   
+<!-- [서비스 바로가기](http://come-see-study.site/)    -->
 
 <img width="500" alt="css 서비스 화면" src="https://user-images.githubusercontent.com/45222668/200377909-5c993f91-7fc6-45b7-a886-240d40c941e4.gif">
 
